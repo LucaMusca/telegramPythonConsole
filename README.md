@@ -2,7 +2,7 @@
 You can use this bot to run a Python console from your Telegram!
 
 ## Setup
-Just begin a chat with `@pythonConsole_bot` and you are all set.
+Just begin a chat with [`@pythonConsole_bot`](https://telegram.me/pythonConsole_bot "PythonConsole") and you are all set.
 
 ## Features
   * IPython support: the console internally uses the IPython interactive shell, so all the IPython "magics" work as expected.
