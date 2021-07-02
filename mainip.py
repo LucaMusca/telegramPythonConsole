@@ -43,7 +43,7 @@ def looseSend(chat_id, msg):
 
 
 def apiRequest(command, params=None):
-    pth = 'https://api.telegram.org/bot1268314054:AAHFugw_rOq1LbOUrrwDA23EGCp4tr4f4jI'
+    pth = f'https://api.telegram.org/bot{Token}'
     return requests.get('%s/%s' % (pth, command), params=params)
 
 
